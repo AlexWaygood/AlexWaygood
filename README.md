@@ -29,4 +29,4 @@ I'm a self-taught Pythonista and open-source contributor, with a particular inte
 ### CPython docs contributions:
 - https://github.com/python/cpython/pull/29335: "Clarify documentation on `GenericAlias` objects"
 - https://github.com/python/cpython/pull/29389: "Disambiguate `__getitem__` and `__class_getitem__` in the data model"
-- https://github.com/python/cpython/pull/31712/files: "Improve documentation for `typing.TypeVar`
+- https://github.com/python/cpython/pull/31712: "Improve documentation for `typing.TypeVar`

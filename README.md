@@ -1,6 +1,6 @@
 # About me
 
-I'm a self-taught Pythonista and open-source contributor, with a particular interest in Python-typing. I maintain typeshed and flake8-pyi, and I'm a contributor to CPython, mypy and typing-extensions.
+I'm a self-taught Pythonista and open-source contributor, with a particular interest in Python-typing. I'm a CPython core dev; I also maintain typeshed and flake8-pyi, and I'm a contributor to mypy and typing-extensions.
 
 # Open-source highlights
 
